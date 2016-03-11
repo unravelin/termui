@@ -9,7 +9,7 @@ package main
 import (
 	"math"
 
-	"github.com/gizak/termui"
+	"github.com/unravelin/termui"
 )
 
 func main() {

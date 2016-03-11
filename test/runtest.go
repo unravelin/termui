@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gizak/termui"
-	"github.com/gizak/termui/debug"
+	"github.com/unravelin/termui"
+	"github.com/unravelin/termui/debug"
 )
 
 func main() {

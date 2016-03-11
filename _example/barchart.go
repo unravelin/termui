@@ -6,7 +6,7 @@
 
 package main
 
-import "github.com/gizak/termui"
+import "github.com/unravelin/termui"
 
 func main() {
 	if err := termui.Init(); err != nil {

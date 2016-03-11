@@ -19,8 +19,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gizak/termui"
-	"github.com/gizak/termui/extra"
+	"github.com/unravelin/termui"
+	"github.com/unravelin/termui/extra"
 )
 
 const statFilePath = "/proc/stat"
